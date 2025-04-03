@@ -13,5 +13,6 @@ class Solution {
     romanMap.put('M', 1000);
     //
     int integer = 0;
+    return integer;
   }
 }
